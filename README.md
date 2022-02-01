@@ -12,7 +12,7 @@
 # About this project ⏬
 
 ## Run Locally :-
-``git clone https://github.com/Upsehu/Tanishq.git``
+``git clone https://github.com/KapoorKartik/Tanishq.git``
 
 ## Go to project directory:- 
 `cd Tanishq-Web-Clone`
